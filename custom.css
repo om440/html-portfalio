@@ -1,0 +1,19 @@
+*{
+    align-items: center;
+}
+div{
+    display: flex;
+    align-items: center;
+    
+}
+.but-1{
+background-color: aqua;
+text-decoration: solid;
+border-radius: 17%;
+color: brown;
+
+
+}
+h1{
+    text-align: center;
+}
